@@ -5,6 +5,8 @@
 //  Created by C4Q  on 10/23/17.
 //  Copyright © 2017 C4Q . All rights reserved.
 //
+// a static constant (like allInfo) can be acccessed by WordData.allInfo
+
 
 import Foundation
 
